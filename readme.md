@@ -1,6 +1,6 @@
 # 💰 Spent-Share - Android App
 
-![Spent-Share Logo](path/to/your/logo.png)
+![Spent-Share Logo](https://github.com/Aamirsid123/Spent-Share/blob/main/app/src/main/res/drawable-v24/logomy.png)
 
 **Spent-Share** is an intuitive Android application designed to make group trips seamless by simplifying the process of splitting expenses, managing group contributions, and keeping everyone in sync through chat. Developed in Java, this app ensures everyone knows exactly who owes what, making your trips more enjoyable.
 
